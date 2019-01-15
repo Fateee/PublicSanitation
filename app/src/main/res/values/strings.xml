@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PublicSanitation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_family">添加家庭</string>
+    <string name="add_people">添加居民</string>
+    <string name="new_baby_visit">新生儿随访</string>
+</resources>
